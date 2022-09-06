@@ -1,7 +1,7 @@
 //We will not use HashSet instead two pointers approach
 //Space Optimised ,most efficient approach
 
-public class remove_duplicate {
+public class remove_duplicates {
 
 	// this function will return the position of array upto which we 
 	//have stored the unique elements
