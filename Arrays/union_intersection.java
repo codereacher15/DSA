@@ -49,12 +49,12 @@ public class union_intersection {
 		//We will loop till one or both the pointers reach the end
 	while(i<n && j<m) {
 		
-		//if element pointed by i is lesser than or equal to pointed by j
+		//if element pointed by i is lesser than to pointed by j
 		if(arr1[i]<arr2[j]) {
 			
 			i++;//increase i as the array is sorted so it will move closer till equal to j
 		}
-		//if element pointed by j is lesser than or equal to pointed by i
+		//if element pointed by j is lesser than to pointed by i
 		else if(arr1[i]>arr2[j]) {
 			
 			j++;//increase j as the array is sorted so it will move closer till equal to i
