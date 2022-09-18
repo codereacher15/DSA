@@ -1,2 +1,3 @@
 # DSA
-A repository for topics and codes I have learnt
+A repository for topics I have learnt and their implementation
+in Java
